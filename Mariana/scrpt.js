@@ -3,3 +3,7 @@ document.querySelectorAll(".flashcard").forEach(function (card) {
     card.classList.toggle("is-flipped");
   });
 });
+
+
+
+
